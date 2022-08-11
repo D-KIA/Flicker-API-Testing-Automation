@@ -1,4 +1,4 @@
-# flickr-API-Testing-Automation
+# flicker-API-Testing-Automation
 Banao Internship Selection Task 1: flickr API testing Automation
 
 This program tests flickr api that DON'T REQUIRE AUTHENTICATION.
